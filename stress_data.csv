@@ -1,0 +1,8 @@
+date,sleep_hours,work_hours,social_time,caffeine_intake,steps,screen_time,water_intake,mood,weather,noise_level,stress_level
+2025-01-01,7.0,8,30,2,5000,6,3,3,Sunny,4,6
+2025-01-02,6.0,9,10,3,3000,7,2,2,Rainy,6,8
+2025-01-03,8.0,6,60,1,7000,4,4,4,Cloudy,3,4
+2025-01-04,5.0,10,5,4,2000,8,2,1,Sunny,7,9
+2025-01-05,7.5,7,45,2,6500,5,3,3,Cloudy,2,5
+2025-01-06,6.5,8,20,3,4500,6,2,2,Rainy,5,7
+2025-01-07,8.0,5,90,1,8000,3,5,4,Sunny,1,3
